@@ -2,9 +2,9 @@
 
 Run following commands
 
-#npm install
+# npm install
 
-#npm start
+# npm start
 
 Port of this will be 4200
 
